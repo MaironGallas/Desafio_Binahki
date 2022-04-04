@@ -9,6 +9,7 @@ numpy = "*"
 seaborn = "*"
 matplotlib = "*"
 sklearn = "*"
+dash = "*"
 
 [dev-packages]
 
